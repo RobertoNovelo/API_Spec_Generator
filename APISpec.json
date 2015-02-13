@@ -1,6 +1,6 @@
 {
-    "API_Name": "RFB API",
-    "API_Description": "API description, HTTP requests and parameters",
+    "APIName": "RFB API",
+    "APIDescription": "Current url at: http://localhost",
     "API":
     [
         {
@@ -10,7 +10,7 @@
             [
                 {
                     "type":"category",
-                    "name":"league"
+                    "name":"league",
                     "sublevels":
                     [
                         {
