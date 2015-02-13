@@ -28,8 +28,20 @@ body
 {
 	position: fixed;
 	bottom: 2em;
+<<<<<<< HEAD
 	width: 100%;
 	display: none;
+=======
+	width: 50%;
+	margin-left: 25%;
+	display: none;
+	text-align: center;
+}
+
+#error-label
+{
+	color: #00897B;
+>>>>>>> HTMLGeneration
 }
 
 .api-title-container
@@ -48,6 +60,7 @@ body
 }
 
 
+<<<<<<< HEAD
 .api-container > div
 {
 	border: 1px solid #80CBC4;
@@ -55,6 +68,15 @@ body
 	border-left-width: 0;
 	border-right-width: 0;
 	cursor: pointer;
+=======
+.api-category
+{
+	/*border: 1px solid #80CBC4;*/
+	/*border-width: 0 1px 1px 0;*/
+	border-left-width: 0;
+	border-right-width: 0;
+	/*cursor: pointer;*/
+>>>>>>> HTMLGeneration
 }
 
 .api-container h4
@@ -62,6 +84,14 @@ body
 	color: #B2DFDB;
 }
 
+<<<<<<< HEAD
+=======
+.api-category > h2
+{
+	cursor: pointer;
+}
+
+>>>>>>> HTMLGeneration
 
 
 
