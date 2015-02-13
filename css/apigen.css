@@ -55,18 +55,23 @@ body
 }
 
 
-.api-container > div
+.api-category
 {
-	border: 1px solid #80CBC4;
-	border-width: 0 1px 1px 0;
+	/*border: 1px solid #80CBC4;*/
+	/*border-width: 0 1px 1px 0;*/
 	border-left-width: 0;
 	border-right-width: 0;
-	cursor: pointer;
+	/*cursor: pointer;*/
 }
 
 .api-container h4
 {
 	color: #B2DFDB;
+}
+
+.api-category > h2
+{
+	cursor: pointer;
 }
 
 
