@@ -1,13 +1,4 @@
-@import "https://fonts.googleapis.com/css?family=Roboto:100,&subset=latin,cyrillic";
-/* -- import Roboto Font ---------------------------- */
-/* -- import Material Icons Font -------------------- */
-@font-face {
-  font-family: 'Material-Design';
-  src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/53474/Material-Design.eot?2u7a7w');
-  src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/53474/Material-Design.eot?#iefix2u7a7w') format('embedded-opentype'), url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/53474/Material-Design.woff?2u7a7w') format('woff'), url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/53474/Material-Design.ttf?2u7a7w') format('truetype'), url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/53474/Material-Design.svg?2u7a7w#Material-Design') format('svg');
-  font-weight: thin;
-  font-style: thin;
-}
+
 
 body
 {
